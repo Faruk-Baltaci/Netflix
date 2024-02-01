@@ -31,6 +31,7 @@ Bu proje, Swift 5 ve UIKit kullanılarak geliştirilmiş bir Netflix klonudur.
 
 Bu proje MIT Lisansı altında lisanslanmıştır.
 
+## Projeden Görseller
 
 <img width="356" alt="Screenshot 2024-02-01 at 17 33 35" src="https://github.com/Faruk-Baltaci/Netflix/assets/73424687/337da43c-b23f-48b1-9fdd-27caab30e134">
 
